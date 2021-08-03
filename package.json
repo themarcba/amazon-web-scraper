@@ -1,10 +1,11 @@
 {
     "name": "@themarcba/amazon-web-scraper",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Library to web-scrape data from Amazon to find out the status of an item at Amazon",
     "keywords": [],
     "author": "Marc Backes (@themarcba)",
     "license": "GPL-3.0",
+    "main": "scraper.js",
     "dependencies": {
         "cheerio": "^1.0.0-rc.10",
         "node-fetch": "^2.6.1",
