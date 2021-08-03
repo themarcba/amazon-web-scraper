@@ -1,0 +1,22 @@
+{
+    "name": "@themarcba/amazon-web-scraper",
+    "version": "1.0.0",
+    "description": "Library to web-scrape data from Amazon to find out the status of an item at Amazon",
+    "keywords": [],
+    "author": "Marc Backes (@themarcba)",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "node-fetch": "^2.6.1",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/themarcba/amazon-web-scraper.git"
+    },
+    "bugs": {
+        "url": "https://github.com/themarcba/amazon-web-scraper/issues"
+    },
+    "homepage": "https://github.com/themarcba/amazon-web-scraper#readme"
+}
