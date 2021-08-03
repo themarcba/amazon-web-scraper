@@ -1,6 +1,6 @@
 {
     "name": "@themarcba/amazon-web-scraper",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Library to web-scrape data from Amazon to find out the status of an item at Amazon",
     "keywords": [
         "scraper",

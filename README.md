@@ -1,11 +1,20 @@
 # Amazon Web Scraper
 
-Library to web-scrape data from Amazon to find out the status of an item at Amazon
+Library to web-scrape data from Amazon to find out the status of an item at Amazon without an API key.
+This is more of an experimental library. I would not use this in production 😉
 
 ## Install
 
+### Using npm
+
 ```bash
 $ npm install @themarcba/amazon-web-scraper
+```
+
+### Using yarn
+
+```bash
+$ yarn add @themarcba/amazon-web-scraper
 ```
 
 ## Use
